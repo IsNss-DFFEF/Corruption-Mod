@@ -1,7 +1,10 @@
 [
   	{
 		"name": "Look at the Treasury",
-		"uniques": ["Triggers [Look at the Treasury] Event"],
+		"uniques": ["Triggers a [Looking at the Treasury] Event"],
+			"Unsellable",
+			"Unbuildable <for [AI player] Civilizations>",
+			"Only available <in [Capital] cities>",
     "cost": 0
 	}
 ]
