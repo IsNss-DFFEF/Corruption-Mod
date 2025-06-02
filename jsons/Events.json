@@ -4,10 +4,9 @@
         "text": "The gold reserves of the nation are large and bountiful.",
         "choices": [
             {
-                "text": "It's empty",
+                "text": "I was just looking.",
                 "uniques": [
-                    "Only available <when below [50] [Gold]>",
-                    "Comment [Nothing to see here...]",
+                    "Comment [Okay okay...]",
                     "Remove [Look at the treasury] [in all cities]",
                 ]
             },
