@@ -1,0 +1,7 @@
+	[
+    {
+		"name": "Personal Wealth",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled","Cannot be traded"]
+	  }
+  ]
