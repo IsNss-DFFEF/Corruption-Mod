@@ -1,0 +1,71 @@
+[
+        {
+        "name": "Looking at the treasury",
+        "text": "The gold reserves of the nation are large and bountiful.",
+        "choices": [
+            {
+                "text": "It's empty",
+                "uniques": [
+                    "Only available <when below [0] [Gold]>",
+                    "Comment [Nothing to see here...]",
+                    "Remove [Look at the treasury] [in all cities]",
+                ]
+            },
+            {
+                "text": "I deserve a little bit more for my efforts",
+                "uniques": [
+                    "Only available <when above [50] [Gold]>",
+                    "Gain [-50] [Gold]",
+                    "Instantly gain [50] [Personal Wealth]",
+                    "Comment [Yeah, yeah...]",
+                    "Remove [Look at the treasury] [in all cities]",
+                    "Gain a free [Corruption I] [in Capital]"
+                ]
+            },
+            {
+                "text": "A little bit off the top can't hurt right?",
+                "uniques": [
+                    "Only available <when above [100] [Gold]>",
+                    "Gain [-100] [Gold]",
+                    "Instantly gain [100] [Personal Wealth]",
+                    "Comment [Surely...]",
+                    "Remove [Look at the treasury] [in all cities]",
+                    "Gain a free [Corruption I] [in Capital]"
+                ]
+            },
+            {
+                "text": "Just a bit more...",
+                "uniques": [
+                    "Only available <when above [250] [Gold]>",
+                    "Gain [-250] [Gold]",
+                    "Instantly gain [250] [Personal Wealth]",
+                    "Comment [No one will even notice!]",
+                    "Remove [Look at the treasury] [in all cities]",
+                    "Gain a free [Corruption II] [in Capital]"
+                ]
+            },
+            {
+                "text": "Who would even care?",
+                "uniques": [
+                    "Only available <when above [1000] [Gold]>",
+                    "Gain [-1000] [Gold]",
+                    "Instantly gain [1000] [Personal Wealth]",
+                    "Comment [You could build a private Villa with this much money.]",
+                    "Remove [Look at the treasury] [in all cities]",
+                    "Gain a free [Corruption II] [in Capital]"
+                ]
+            },
+            {
+                "text": "I want it all.",
+                "uniques": [
+                    "Only available <when above [10000] [Gold]>",
+                    "Gain [-10000] [Gold]",
+                    "Instantly gain [10000] [Personal Wealth]",
+                    "Comment [Are you sure about this?]",
+                    "Remove [Look at the treasury] [in all cities]",
+                    "Gain a free [Corruption III] [in Capital]"
+                ]
+            }
+        ]
+    }
+]
