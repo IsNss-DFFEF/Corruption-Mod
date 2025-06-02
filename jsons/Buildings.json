@@ -1,6 +1,6 @@
 [
   	{
-		"name": "Look at the Treasury",
+		"name": "Look at the treasury",
 		"uniques": ["Triggers a [Looking at the treasury] event",
 			"Unsellable",
 			"Unbuildable <for [AI player] Civilizations>",
