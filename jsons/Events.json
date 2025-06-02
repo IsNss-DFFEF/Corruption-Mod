@@ -7,7 +7,7 @@
                 "text": "I was just looking.",
                 "uniques": [
                     "Comment [Okay okay...]",
-                    "Remove [Look at the treasury] [in all cities]",
+                    "Remove [Look at the treasury] [in all cities] <hidden from users>",
                 ]
             },
             {
@@ -17,8 +17,8 @@
                     "Gain [-50] [Gold]",
                     "Instantly gain [50] [Personal Wealth]",
                     "Comment [Yeah, yeah...]",
-                    "Remove [Look at the treasury] [in all cities]",
-                    "Gain a free [Corruption I] [in Capital]"
+                    "Remove [Look at the treasury] [in all cities] <hidden from users>",
+                    "Gain a free [Corruption I] [in Capital] <hidden from users>"
                 ]
             },
             {
@@ -28,8 +28,8 @@
                     "Gain [-100] [Gold]",
                     "Instantly gain [100] [Personal Wealth]",
                     "Comment [Surely...]",
-                    "Remove [Look at the treasury] [in all cities]",
-                    "Gain a free [Corruption I] [in Capital]"
+                    "Remove [Look at the treasury] [in all cities] <hidden from users>",
+                    "Gain a free [Corruption I] [in Capital] <hidden from users>"
                 ]
             },
             {
@@ -39,8 +39,8 @@
                     "Gain [-250] [Gold]",
                     "Instantly gain [250] [Personal Wealth]",
                     "Comment [No one will even notice!]",
-                    "Remove [Look at the treasury] [in all cities]",
-                    "Gain a free [Corruption II] [in Capital]"
+                    "Remove [Look at the treasury] [in all cities] <hidden from users>",
+                    "Gain a free [Corruption II] [in Capital] <hidden from users>"
                 ]
             },
             {
@@ -50,8 +50,8 @@
                     "Gain [-1000] [Gold]",
                     "Instantly gain [1000] [Personal Wealth]",
                     "Comment [You could build a private Villa with this much money.]",
-                    "Remove [Look at the treasury] [in all cities]",
-                    "Gain a free [Corruption II] [in Capital]"
+                    "Remove [Look at the treasury] [in all cities] <hidden from users>",
+                    "Gain a free [Corruption II] [in Capital] <hidden from users>"
                 ]
             },
             {
@@ -61,8 +61,8 @@
                     "Gain [-10000] [Gold]",
                     "Instantly gain [10000] [Personal Wealth]",
                     "Comment [Are you sure about this?]",
-                    "Remove [Look at the treasury] [in all cities]",
-                    "Gain a free [Corruption III] [in Capital]"
+                    "Remove [Look at the treasury] [in all cities] <hidden from users>",
+                    "Gain a free [Corruption III] [in Capital] <hidden from users>"
                 ]
             }
         ]
