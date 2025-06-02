@@ -1,10 +1,28 @@
 [
   	{
 		"name": "Look at the Treasury",
-		"uniques": ["Triggers a [Looking at the Treasury] Event"],
+		"uniques": ["Triggers a [Looking at the Treasury] Event",
 			"Unsellable",
 			"Unbuildable <for [AI player] Civilizations>",
-			"Only available <in [Capital] cities>",
-    "cost": 0
-	}
+			"Only available <in [Capital] cities>"]
+    		"cost": 0
+	},
+	  	{
+		"name": "Corruption I",
+		"uniques": [,
+			"Unsellable",
+			"Unbuildable",],
+	},
+		  	{
+		"name": "Corruption II",
+		"uniques": [,
+			"Unsellable",
+			"Unbuildable",],
+	},
+		  	{
+		"name": "Corruption III",
+		"uniques": [,
+			"Unsellable",
+			"Unbuildable",],
+	},
 ]
